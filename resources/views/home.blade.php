@@ -12,6 +12,7 @@
         <link rel="shortcut icon" href="{{asset('favicon.png')}}" />
         <link rel="apple-touch-icon" href="{{asset('favicon.png')}}" />
         <link rel="apple-touch-icon-precomposed" href="{{asset('favicon.png')}}" />
+        <script data-ad-client="ca-pub-3151109682622702" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     </head>
     <body class="antialiased ">
     <div class="bg-white pb-4 px-4 rounded-md min-h-screen min-w-full w-full">
