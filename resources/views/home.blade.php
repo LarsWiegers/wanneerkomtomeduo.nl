@@ -8,11 +8,10 @@
         <meta name="description" content="Ook geen idee wanneer ome duo weer langs komt? Dat is nu geen probleem meer! Deel ook even met je leen maatjes!">
 
         <!-- Fonts -->
-        <link href="{{asset('css/app.css')}}" rel="stylesheet">
-        <link rel="shortcut icon" href="{{asset('favicon.png')}}" />
-        <link rel="apple-touch-icon" href="{{asset('favicon.png')}}" />
-        <link rel="apple-touch-icon-precomposed" href="{{asset('favicon.png')}}" />
-        <script data-ad-client="ca-pub-3151109682622702" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <link href="{{URL::asset('css/app.css')}}" rel="stylesheet">
+        <link rel="shortcut icon" href="{{URL::asset('favicon.png')}}" />
+        <link rel="apple-touch-icon" href="{{URL::asset('favicon.png')}}" />
+        <link rel="apple-touch-icon-precomposed" href="{{URL::asset('favicon.png')}}" />
     </head>
     <body class="antialiased ">
     <div class="bg-white pb-4 px-4 rounded-md min-h-screen min-w-full w-full">
